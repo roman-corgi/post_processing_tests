@@ -6,6 +6,7 @@ Photon counting follows the recipe described in ther report by [Ygouf et al (202
 
 Information on the input data is available from IPAC: https://roman.ipac.caltech.edu/sims/Coronagraph_public_images.html#CGI_OS9, and the data itself is stored on the Caltech Box: https://caltech.box.com/s/jwh36cej4a8993moih0uwayqhfgalko7
 
+## descriptions of notebooks
 
 [OS9_RomanPhotonCountingDemo.ipynb](OS9_RomanPhotonCountingDemo.ipynb)
 
@@ -13,12 +14,12 @@ Information on the input data is available from IPAC: https://roman.ipac.caltech
 
 [Roman_Ygouf_Pyklip_HDF5.ipynb](Roman_Ygouf_Pyklip_HDF5.ipynb):
 
--imports Roman OS9 test data (prior notebook, same name)
--runs it through first or third order photon counting (prior notebook, same name)
--runs a deepcopy of photon counted OS9 data through Pyklip RDI and ADI
--converts photon counted OS9 data into HDF5 for processing by Pynpoint
+- imports Roman OS9 test data (prior notebook, same name)
+- runs it through first or third order photon counting (prior notebook, same name)
+- runs a deepcopy of photon counted OS9 data through Pyklip RDI and ADI
+- converts photon counted OS9 data into HDF5 for processing by Pynpoint
 
 [Roman_OS9_Pynpoint.ipynb](Roman_OS9_Pynpoint.ipynb)
 
--imports the HDF5 file that was prepared by Roman_Ygouf_Pyklip_HDF5.ipynb
--runs that photon counted OS9 data through RDI and ADI, using 
+- imports the HDF5 file that was prepared by Roman_Ygouf_Pyklip_HDF5.ipynb
+- runs that photon counted OS9 data through RDI and ADI, using 
