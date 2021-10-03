@@ -4,6 +4,9 @@ Examples of PSF photon counting and PSF subtraction using open source post-proce
 
 Photon counting follows the recipe described in ther report by [Ygouf et al (2020)](https://roman.ipac.caltech.edu/docs/sims/20210110_Roman_CGI_post_processing_report_URS_corrected_typo.pdf). For more details on photon counting see Nemati et al (2020), ["Photon counting and precision photometry for the Roman Space Telescope Coronagraph"](https://ui.adsabs.harvard.edu/abs/2020SPIE11443E..5FN/abstract) in Proc. SPIE.
 
+Information on the input data is available from IPAC: https://roman.ipac.caltech.edu/sims/Coronagraph_public_images.html#CGI_OS9, and the data itself is stored on the Caltech Box: https://caltech.box.com/s/jwh36cej4a8993moih0uwayqhfgalko7
+
+
 [OS9_RomanPhotonCountingDemo.ipynb](OS9_RomanPhotonCountingDemo.ipynb)
 
 - example of performing photon counting without post-processing or PSF subtraction
