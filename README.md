@@ -25,6 +25,6 @@ Information on the input data is available from IPAC: https://roman.ipac.caltech
 - runs that photon counted OS9 data through RDI and ADI, using 
 
 
-Contributors:
+### Contributors:
 
 UArizona: [Robert Thompson](https://github.com/GitHubUsername-rmt), [Jaren Ashcraft](https://github.com/Jashcraf), and [Ewan Douglas](https://github.com/douglase)
