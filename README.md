@@ -8,4 +8,4 @@
 
 [Roman_OS9_Pynpoint.ipynb](Roman_OS9_Pynpoint.ipynb)
 -imports the HDF5 file that was prepared by Roman_Ygouf_Pyklip_HDF5.ipynb
--runs that photon counted OS9 data through RDI and ADI
+-runs that photon counted OS9 data through RDI and ADI, using https://github.com/PynPoint/PynPoint
