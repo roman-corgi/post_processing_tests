@@ -1,4 +1,4 @@
-# post_processing_tests
+# Roman Coronagraph Post Processing Examples
 
 Examples of PSF photon counting and PSF subtraction using open source post-processing libraries [pyKLIP](https://bitbucket.org/pyKLIP/pyklip) [PynPoint](https://github.com/PynPoint/PynPoint).
 
